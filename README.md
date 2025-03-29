@@ -1,4 +1,5 @@
 # Pulse Code Modulation (PCM)
+  JEFRIN INOLA J (212223060104).
 
 ## Aim  
 To perform Pulse Code Modulation (PCM) on a continuous signal and analyze its reconstruction.  
