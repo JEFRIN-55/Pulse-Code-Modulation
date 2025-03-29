@@ -4,7 +4,7 @@
 To perform Pulse Code Modulation (PCM) on a continuous signal and analyze its reconstruction.  
 
 ## Tools Required  
-- Python  
+- Python (colab)
 - NumPy  
 - Matplotlib  
 
